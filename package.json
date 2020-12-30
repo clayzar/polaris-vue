@@ -29,7 +29,9 @@
   "dependencies": {
     "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
     "@vue/babel-preset-jsx": "^1.1.1",
+    "@vue/cli": "^4.5.9",
     "core-js": "^3.3.2",
+    "g": "^2.0.1",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.3.0"
